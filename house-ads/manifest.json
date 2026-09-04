@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "campaign_id": "camp_20260904_004",
+    "title": "coffee machin",
+    "media_type": "image",
+    "media_url": "https://davelerino.github.io/house-ads/images/sponsor_cafe.jpeg",
+    "click_url": "",
+    "reward_type": "coins",
+    "reward_amount": 20,
+    "min_watch_seconds": 5,
+    "platforms": [
+      "android",
+      "ios",
+      "pc"
+    ],
+    "countries": [],
+    "exclude_payers": false,
+    "weight": 446,
+    "enabled": true
+  }
+]
