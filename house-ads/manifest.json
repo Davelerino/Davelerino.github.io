@@ -15,7 +15,73 @@
     ],
     "countries": [],
     "exclude_payers": false,
-    "weight": 446,
+    "weight": 10,
+    "enabled": true
+  },
+  {
+    "campaign_id": "camp_20260909_shineframe",
+    "title": "ShineFrame — studio photo/video",
+    "media_type": "image",
+    "media_url": "https://davelerino.github.io/house-ads/images/sponsor_shineframe.jpeg",
+    "media_orientation": "portrait",
+    "click_url": "",
+    "reward_type": "coins",
+    "reward_amount": 20,
+    "min_watch_seconds": 5,
+    "platforms": [
+      "android",
+      "ios",
+      "pc"
+    ],
+    "countries": [],
+    "exclude_payers": false,
+    "weight": 10,
+    "daily_cap": 2,
+    "sector": "autre",
+    "enabled": true
+  },
+  {
+    "campaign_id": "camp_20260909_zestia",
+    "title": "Zestia — jus presse a froid",
+    "media_type": "image",
+    "media_url": "https://davelerino.github.io/house-ads/images/sponsor_zestia.jpeg",
+    "media_orientation": "portrait",
+    "click_url": "",
+    "reward_type": "coins",
+    "reward_amount": 20,
+    "min_watch_seconds": 5,
+    "platforms": [
+      "android",
+      "ios",
+      "pc"
+    ],
+    "countries": [],
+    "exclude_payers": false,
+    "weight": 10,
+    "daily_cap": 2,
+    "sector": "boisson",
+    "enabled": true
+  },
+  {
+    "campaign_id": "camp_20260909_ziyaspices",
+    "title": "Ziya Spices — melanges d'epices",
+    "media_type": "image",
+    "media_url": "https://davelerino.github.io/house-ads/images/sponsor_ziyaspices.jpeg",
+    "media_orientation": "portrait",
+    "click_url": "",
+    "reward_type": "coins",
+    "reward_amount": 20,
+    "min_watch_seconds": 5,
+    "platforms": [
+      "android",
+      "ios",
+      "pc"
+    ],
+    "countries": [],
+    "exclude_payers": false,
+    "weight": 10,
+    "daily_cap": 2,
+    "sector": "commerce",
     "enabled": true
   }
 ]
