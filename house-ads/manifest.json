@@ -106,5 +106,26 @@
     "enabled": true,
     "sector": "fintech",
     "exclusivity": "total"
+  },
+  {
+    "campaign_id": "cg_godo_ludo_starter",
+    "title": "Computer Gate — tournoi GODO LUDO STARTER",
+    "media_type": "image",
+    "media_url": "https://cdn.godoludo.com/house-ads/media/02d195c4ffb3ed7291571e8b9c888a10cb42cc0045036c68c97a9b02e9598fad.webp",
+    "click_url": "https://wa.me/22890015100",
+    "reward_type": "coins",
+    "reward_amount": 0,
+    "min_watch_seconds": 0,
+    "platforms": [],
+    "countries": [],
+    "exclude_payers": false,
+    "weight": 100,
+    "enabled": true,
+    "sector": "",
+    "exclusivity": "none",
+    "media_orientation": "landscape",
+    "placement": "event_banner",
+    "event_id": "godo_ludo_starter",
+    "media_url_wide": "https://cdn.godoludo.com/house-ads/media/f484d3434b9053f959e4c228898aab1ad514bd64ebcd0b20e7981f4b065f62bb.webp"
   }
 ]
